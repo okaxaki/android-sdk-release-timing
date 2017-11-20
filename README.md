@@ -1,2 +1,33 @@
-# android-library-releases
-The release date summary of Android SDK, tools and libraries
+# Android SDK Release Timing Chart
+The release timing chart of essential SDK and libraries for Android development. 
+
+# Motivation
+In application development, many many many many troubles occur depending on upgrading the Android SDK and libraries. Ideally, all SDKs and libraries are both backward / upward compatibile but in real, they have a lot of bugs or undocumented critical changes and somtimes cause crashes. So I often need to investigate what verions of library combination works. 
+
+Finding the proper version combination of the library is like a game, However, the libraries released at the same or close timing seems to have less problem (they might be relatively well tested). So I tried to list recent versions and release times of SDK and libraries so that we can find a proper combination easier.
+
+[SDK Platform Tools]: https://developer.android.com/studio/releases/platform-tools.html
+[SDK Build Tools]: https://developer.android.com/studio/releases/build-tools.html
+[Android Plugin]: https://developer.android.com/studio/releases/gradle-plugin.html
+[Google Services Plugin]: https://developers.google.com/android/guides/google-services-plugin
+[Support Library]: https://developer.android.com/topic/libraries/support-library/revisions.html
+[Play Services]: https://developers.google.com/android/guides/releases
+[Firebase SDK]: https://firebase.google.com/support/release-notes/android
+
+# The Chart
+|Release|[SDK Platform Tools]|[SDK Build Tools]|[Android Plugin]|[Google Services Plugin]|[Support Library]|[Play Services]|[Firebase SDK]|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|Nov 2017|||||27.0.1|11.6.0|11.6.0|
+|Oct 2017|26.0.2|26.0.2|3.0.0||27.0.0|11.4.2|11.4.2|
+|Sep 2017||||||11.4.0|11.4.0<br>11.2.2|
+|Aug 2017|||||26.0.2<br>26.0.1|11.2.2<br>11.2.0|11.2.0|
+|Jul 2017||26.0.1|||26.0.0|11.0.4<br>|11.0.4|
+|Jun 2017|26.0.0|26.0.0|2.3.3||26.0.0-beta2<br>25.4.0|11.0.2<br>11.0.1<br>11.0.0|11.0.2<br>11.0.0|
+|May 2017|||2.3.2|3.1.0|26.0.0-beta1|10.2.6|10.2.6|
+|Apr 2017|25.0.5|25.0.3|2.3.1|||10.2.4|10.2.4|
+|Mar 2017|25.0.4||2.3.0||26.0.0-alpha1<br>25.3.1<br>25.3.0|10.2.1|10.2.1|
+|Feb 2017|||||25.2.0|10.2.0|10.2.0|
+|Jan 2017|||||25.1.1|||
+|Dec 2016|25.0.3<br>25.0.2|25.0.2|2.2.3||25.1.0|||
+|Nov 2016|25.0.1|25.0.1|||25.0.1|10.0.1<br>10.0.0|10.0.0|
+|Oct 2016|25.0.0<br>24.0.4|25.0.0|2.2.2<br>2.2.1||25.0.0|9.8.0|9.8.0|
