@@ -2,9 +2,9 @@
 The release timing chart of essential SDK and libraries for Android development. 
 
 # Motivation
-In application development, many many many many troubles occur depending on upgrading the Android SDK and libraries. Ideally, all SDKs and libraries are both backward / upward compatibile but in real, they have a lot of bugs or undocumented critical changes and somtimes cause crashes. So I often need to investigate what verions of library combination works. 
+In application development, many many many many troubles occur depending on upgrading the Android SDK and libraries. Ideally, all SDKs and libraries are both backward / upward compatibile but in real, they have a lot of bugs or undocumented changes and somtimes cause critial problem. So I often need to investigate what verions of library combination works. 
 
-Finding the proper version combination of the library is like a game, However, the libraries released at the same or close timing seems to have less problem (they might be relatively well tested). So I tried to list recent versions and release times of SDK and libraries so that we can find a proper combination easier.
+Finding the proper version combination of the library is like a game, however, the libraries released at the same or close timing seems to have empirically less problems (they might be relatively well tested). So I tried to list recent versions and release times of SDK and libraries so that we can find a proper combination easier.
 
 [SDK Platform Tools]: https://developer.android.com/studio/releases/platform-tools.html
 [SDK Build Tools]: https://developer.android.com/studio/releases/build-tools.html
