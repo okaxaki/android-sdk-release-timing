@@ -15,7 +15,7 @@ Finding the proper version combination of the library is like a game, however, t
 [Firebase SDK]: https://firebase.google.com/support/release-notes/android
 
 # The Chart
-|Release|[SDK Platform Tools]|[SDK Build Tools]|[Android Plugin]|[Google Services Plugin]|[Support Library]|[Play Services]|[Firebase SDK]|
+|Release Date|[SDK Platform Tools]|[SDK Build Tools]|[Android Plugin]|[Google Services Plugin]|[Support Library]|[Play Services]|[Firebase SDK]|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |Nov 2017|||||27.0.1|11.6.0|11.6.0|
 |Oct 2017|26.0.2|26.0.2|3.0.0||27.0.0|11.4.2|11.4.2|
