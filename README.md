@@ -17,6 +17,7 @@ Finding the proper version combination of the library is like a game, however, t
 # The Chart
 |Release Date|[SDK Platform Tools]|[SDK Build Tools]|[Android Plugin]|[Google Services Plugin]|[Support Library]|[Play Services]|[Firebase SDK]|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|May 2018||||4.0.1<br>4.0.0|||
 |Apr 2018||||3.2.1|27.1.1|15.0.0|15.0.0|
 |Mar 2018|||3.1.0||28.0.0 Alpha1|12.0.1<br>12.0.0|12.0.1<br>12.0.0|
 |Feb 2018|||||27.1.0|||
