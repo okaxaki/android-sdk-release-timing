@@ -19,7 +19,7 @@ Finding the proper version combination of the library is like a game, however, t
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |Oct 2018||||||||
 |Sep 2018|28.0.1|28.0.3|3.2.0||28.0.0|||
-|Aug 2018||28.0.2||4.1.0|28.0.0 RC 2<br>28.0.0 RC 1<br>28.0.0 Beta1|||
+|Aug 2018||28.0.2||4.1.0|28.0.0&nbsp;RC&nbsp;2<br>28.0.0&nbsp;RC&nbsp;1<br>28.0.0&nbsp;Beta1|||
 |Jul 2018||||||||
 |Jun 2018|28.0.0||||||
 |May 2018||||4.0.1<br>4.0.0|||
